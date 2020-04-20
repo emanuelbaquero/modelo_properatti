@@ -77,8 +77,7 @@ def proceso_quitar_outliers(parametro_data):
 
 
             return data_outliers
-            
-            
+       
             
         def generar_outliers_indices_ph_supTotal_izq():
             lista_indices=[]
