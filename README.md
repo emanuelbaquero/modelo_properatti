@@ -1,6 +1,6 @@
 # Desafío 2. Prediciendo precios de propiedades de CABA
 
-### Esta semana comenzamos a pensar en términos de modelos de forma más explícita.Empezamos con modelos de regresión lineal y su implementación en scikit-learn.También trabajamos sobre la forma de “traducir” los objetivos de negocios en un modelo. A su vez, hemos introducido formas de validación de un modelo, particularmente,utilizamos cross-validation para optimizar modelos. Ahora vamos a aplicar estos nuevos contenidos al dataset de Properati que limpiaron en el desafío anterior.
+###### Esta semana comenzamos a pensar en términos de modelos de forma más explícita.Empezamos con modelos de regresión lineal y su implementación en scikit-learn.También trabajamos sobre la forma de “traducir” los objetivos de negocios en un modelo. A su vez, hemos introducido formas de validación de un modelo, particularmente,utilizamos cross-validation para optimizar modelos. Ahora vamos a aplicar estos nuevos contenidos al dataset de Properati que limpiaron en el desafío anterior.
 
 
 
